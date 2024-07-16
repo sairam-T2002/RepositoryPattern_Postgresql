@@ -1,0 +1,6 @@
+@RepositoryPattern_Postgresql_HostAddress = http://localhost:5166
+
+GET {{RepositoryPattern_Postgresql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
